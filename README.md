@@ -29,7 +29,8 @@ Huge shoutout to the people who run the [sausage database](https://thesausagedat
 ## 🔮 Future Work:
 
 I primarily focused on the sausage episodes for now, but there is more data available, including non-sausage episodes. That will be a next step for future analysis!
-🧮 The SausageMath Notebook
+
+## 🧮 The SausageMath Notebook
 
 In the notebook sausagemath.ipynb, I performed some introductory data analysis:
 
